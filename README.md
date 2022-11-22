@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MonjackWon
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning C Program
+- 💞️ I’m looking to collaborate on Knowledge
+- 📫 How to reach me wonmonjack@outlook.com
